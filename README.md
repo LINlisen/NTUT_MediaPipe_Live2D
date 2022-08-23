@@ -1,3 +1,31 @@
+# NTUT_MediaPipe_Live2D
+國立臺北科技大學-Live2D with MediaPipe
+
+## 環境建置
+### 下載檔案
+右上方Code->Download ZIP
+### 開啟檔案
+1. 開啟Unity Hub
+2. 專案->右上角開啟->選擇下載下來解壓縮的檔案
+
+## 執行檔
+* [GitHub](https://github.com/LINlisen/NTUT_Live2D_MouseControll_exe.git)
+下載後開啟MediaPipeUnityPlugin.exe即可看到Demo的樣子
+
+## 操作及注意事項
+### 功能完成:
+1. 減少動作捕捉晃動
+2. 轉換成CubismController寫法
+3. 隱藏鏡頭
+4. 簡單版本功能新增
+
+### 功能待增加：
+反轉鏡頭
+係數補正GUI
+
+## Licence
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/tw/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/tw/88x31.png" /></a><br />本著作係採用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/tw/">創用 CC 姓名標示-非商業性-相同方式分享 3.0 台灣 授權條款</a>授權.
+
 # MediaPipe Unity Plugin
 This is a Unity (2020.3.8f1) Plugin to use MediaPipe (0.8.3.1).
 
