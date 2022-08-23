@@ -9,7 +9,7 @@
 2. 專案->右上角開啟->選擇下載下來解壓縮的檔案
 
 ## 執行檔
-* [GitHub](https://github.com/LINlisen/NTUT_Live2D_MouseControll_exe.git)
+* [GoogleDrive](https://drive.google.com/file/d/1ef5t7hLtp8_fYdVKwMmw8KTZsQ6aEnv2/view?usp=sharing)
 下載後開啟MediaPipeUnityPlugin.exe即可看到Demo的樣子
 
 ## 操作及注意事項
